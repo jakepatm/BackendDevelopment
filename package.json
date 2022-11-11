@@ -10,6 +10,7 @@
 		"start": "node server.js"
 	},
 	"keywords": ["freecodecamp","another","word","like","this"],
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
