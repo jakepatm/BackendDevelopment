@@ -3,7 +3,6 @@
 	"author": "Jake Meyers",
 	"description": "Here is an example description for my project",
 	"dependencies": {
-		"@freecodecamp/example":"^1.2.13",
 		"express": "^4.18.2"
 	},
 	"main": "server.js",
