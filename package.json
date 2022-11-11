@@ -9,6 +9,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"keywords": ["freecodecamp","another","word","like","this"],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
