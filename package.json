@@ -11,6 +11,7 @@
 	},
 	"keywords": ["freecodecamp","another","word","like","this"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
